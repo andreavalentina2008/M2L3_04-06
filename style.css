@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(186, 134, 230);/*color fondo*/
+    color: blanchedalmond;/*color letra*/
+    padding: 2cm;/*borde interno*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: rgb(255, 185, 160);
+}
+.pruebaT2{
+    color: rgb(40, 21, 124);
+    
+}
